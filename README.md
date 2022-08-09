@@ -12,7 +12,7 @@ Helper script to update ReVanced apk
 Run in Termux
 
 ```
-wget ....sh
+wget https://raw.githubusercontent.com/lakafior/RVBuilderHelper/main/rv.sh
 
 chmod a+x rv.sh
 
