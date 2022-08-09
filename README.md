@@ -31,7 +31,7 @@ chmod a+x rv.sh
 Run in Termux
 
 ```
-wget https://raw.githubusercontent.com/lakafior/RVBuilderHelper/main/rv.sh
+wget https://raw.githubusercontent.com/lakafior/RVBuilderHelper/main/rvgui.sh
 
 chmod a+x rvgui.sh
 
