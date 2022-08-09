@@ -7,7 +7,7 @@ Helper script to update ReVanced apk
 3. Download latest builder
 4. Keep keyrings if there was already previous builder, to make update exsiting app possible
 
-# How to run
+# How to run: CLI Version
 1. Initial setup:
 Run in Termux
 
@@ -23,4 +23,23 @@ chmod a+x rv.sh
 
 `
 ./rv.sh
+`
+
+
+# How to run: GUI Version
+1. Initial setup:
+Run in Termux
+
+```
+wget https://raw.githubusercontent.com/lakafior/RVBuilderHelper/main/rv.sh
+
+chmod a+x rvgui.sh
+
+./rvgui.sh
+```
+
+2. For next run, just type
+
+`
+./rvgui.sh
 `
